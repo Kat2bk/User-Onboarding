@@ -15,3 +15,5 @@ const UserForm = ({ values }) => {
     </div>
   );
 };
+
+export default Form;
